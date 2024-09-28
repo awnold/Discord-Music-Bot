@@ -82,7 +82,7 @@ python bot.py
 - Join a public voice channel
 - Type `m-play https://www.youtube.com/watch?v=dQw4w9WgXcQ` in a public text channel
 
-The bot will connect to your Discord server, ready to play music! 🎶
+The bot will connect to your voice channel and start playing music! 🎶
 
 ## Contributing
 
