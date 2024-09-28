@@ -13,6 +13,7 @@ A simple Discord music bot built with Python and `discord.py` that plays music f
 - 🔒 Secure handling of environment variables for bot tokens and other sensitive data.
 
 ## Commands
+
 🔹 `m-play <url>` - Play a song from a URL (YouTube/SoundCloud).
 
 🔹 `m-skip` - Skip the currently playing song (DJ role).
@@ -29,7 +30,10 @@ A simple Discord music bot built with Python and `discord.py` that plays music f
 
 🔹 `m-leave` - Leave the voice channel.
 
+### Example Usage
+
 ![Example Screenshot](rickroll.png)
+
 ## Setup
 
 ### Prerequisites
@@ -74,6 +78,7 @@ python bot.py
 ```
 
 ### Play a song
+
 - Join a public voice channel
 - Type `m-play https://www.youtube.com/watch?v=dQw4w9WgXcQ` in a public text channel
 
